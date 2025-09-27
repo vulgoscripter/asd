@@ -1,3 +1,12 @@
+--[[ 
+    Qr XIT - ESP + FOV Aimbot Script (Visual conforme Imagem 7)
+    - Flocos de neve espaçados, Qr XIT centralizado
+    - Painel quadrado, visual limpo e moderno
+    - Painel pode ser arrastado apenas pelo título "Qr XIT"
+    - Botões grandes, espaçados
+    - Slider do tamanho FOV igual à imagem
+    - Ao morrer/respawnar, painel volta na mesma posição e com as opções do jeito que estavam
+    - Roblox Lua LocalScript (StarterPlayerScripts)
 ]]
 
 local Players = game:GetService("Players")
